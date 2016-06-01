@@ -21,6 +21,7 @@ class SkeletonClass
      */
     public function echoPhrase($phrase)
     {
+        $phrase .= "- and here is a suffix!!";
         return $phrase;
     }
 }
