@@ -15,9 +15,9 @@ class SkeletonClass
         // constructor body
     }
     
-    final public function thisIsNotPsr2() 
-    { 
-        echo "Hello!"; 
+    final public function thisIsNotPsr2()
+    {
+        echo "Hello!";
     }
 
     /**
