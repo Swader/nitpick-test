@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Note:** Replace ```Bruno Skvorc``` ```:author_username``` ```http://bitfalls.com``` ```bruno@skvorc.me``` ```sitepoint``` ```nitpick-test``` ```nitpick-test package for a SitePoint tutorial``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
+**Note:** Replace ```Bruno Skvorc``` ```swader``` ```http://bitfalls.com``` ```bruno@skvorc.me``` ```sitepoint``` ```nitpick-test``` ```nitpick-test package for a SitePoint tutorial``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -66,5 +66,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-scrutinizer]: https://scrutinizer-ci.com/g/sitepoint/nitpick-test/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/sitepoint/nitpick-test
 [link-downloads]: https://packagist.org/packages/sitepoint/nitpick-test
-[link-author]: https://github.com/:author_username
+[link-author]: https://github.com/swader
 [link-contributors]: ../../contributors
