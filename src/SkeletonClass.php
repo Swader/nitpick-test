@@ -4,7 +4,7 @@ namespace League\Skeleton;
 
 class SkeletonClass
 {
-    $someProp = "foo";
+    public $someProp = "foo";
     public $someOtherProp = "bar";
     
     /**
@@ -15,7 +15,10 @@ class SkeletonClass
         // constructor body
     }
     
-    public final function thisIsNotPsr2() { echo "Hello!"; }
+    final public function thisIsNotPsr2() 
+    { 
+        echo "Hello!"; 
+    }
 
     /**
      * Friendly welcome
